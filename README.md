@@ -144,7 +144,7 @@ function App() {
         <input {...formal.getFieldProps("email")} type="text" />
       </div>
 
-      <button type="submit">Subnit</button>
+      <button type="submit">Submit</button>
     </form>
   );
 }
